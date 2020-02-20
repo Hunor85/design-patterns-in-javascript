@@ -9,7 +9,7 @@ function Iterator(items)
 Iterator.prototype = {
   hasNext: function()
   {
-    return this.index < this.items.length
+    return this.index <= this.items.length
   },
   next: function()
   {

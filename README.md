@@ -1,7 +1,7 @@
 # Design patterns in JavaScript
 
 ## Behavioural patterns:
-* Iterator [iterator](https://github.com/Hunor85/design-patterns-in-javascript/blob/master/behavioural/iterator.js)
+* Iterator [link](https://github.com/Hunor85/design-patterns-in-javascript/blob/master/behavioural/iterator.js)
 * Mediator
 * Observer
 * Strategy
